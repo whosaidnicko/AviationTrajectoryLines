@@ -1,0 +1,16 @@
+//
+//  Gikveihqwe.swift
+//  AviationTrajectoryLines
+//
+//  Created by Nicolae Chivriga on 11/02/2025.
+//
+
+import SwiftUI
+
+struct Gikveihqwe: View {
+    var body: some View {
+        VStack {
+            
+        }
+    }
+}
